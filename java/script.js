@@ -24,7 +24,7 @@ const music_list = [
     img: "./imgs/lana.jpeg",
     name: "Doin' Time",
     artist: "Lana Del Rey",
-    music: "../audios/Lana Del Rey - Doin' Time.mp3",
+    music: "../audios/audios/Lana Del Rey - Doin' Time.mp3",
   },
   {
     img: "./imgs/week.jpeg",
@@ -42,7 +42,7 @@ const music_list = [
     img: "../imgs/yj55.jpeg",
     name: "aloomek",
     artist: "Marwan Moussa",
-    music: "../audios/marwan moussa - aloomek.mp3",
+    music: "../audios/audios/marwan moussa - aloomek.mp3",
   },
 ];
 
